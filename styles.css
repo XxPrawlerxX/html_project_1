@@ -1,0 +1,18 @@
+nav {
+    display: inline;
+}
+
+body {
+  font-family: roboto;
+  background-color: aquamarine;
+}
+header{
+    font-size: larger;
+}
+.ends {
+    background-color: aqua;
+}
+footer{
+    font-size: small;
+    font-style: italic;
+}
